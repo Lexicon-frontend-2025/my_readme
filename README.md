@@ -11,6 +11,8 @@ Projektet gör det här och det här, innehåller detta...
 - [Funktioner](#funktioner)
 - [Teknologier](#teknologier)
 - [Installation](#installation)
+- [Användning](#användning)
+- [Projektstruktur](#projektstruktur)
 
 
 ---
@@ -54,5 +56,24 @@ npm install
 npm run dev
 ```
 
+---
 
+## Användning
+* Startsida -> visar produkter + hero
+* Om oss -> statisk sida med text och bild
+* osv
+* osv
+* osv
 
+---
+
+## Projektstruktur
+
+```
+|-- app/
+|  |-- page.tsx            # Startsida
+|  |-- about/page.tsx      # Om oss
+|-- components/            # Återanvändbara komponenter                
+|
+|
+```
