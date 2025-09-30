@@ -8,7 +8,7 @@ Projektet gör det här och det här, innehåller detta...
 
 ## 🗂️ Innehållsförteckning
 - 📖 [Om projektet](#-om-projektet)
-- ✨[Funktioner](#-funktioner)
+- ✨ [Funktioner](#-funktioner)
 - [Teknologier](#teknologier)
 - [Installation](#installation)
 - [Användning](#användning)
