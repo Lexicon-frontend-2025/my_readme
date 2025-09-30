@@ -6,9 +6,9 @@ Projektet gör det här och det här, innehåller detta...
 
 ---
 
-## Innehållsförteckning
-- [Om projektet](#om-projektet)
-- [Funktioner](#funktioner)
+## 🗂️ Innehållsförteckning
+- 📖 [Om projektet](#om-projektet)
+- ✨[Funktioner](#funktioner)
 - [Teknologier](#teknologier)
 - [Installation](#installation)
 - [Användning](#användning)
@@ -16,11 +16,12 @@ Projektet gör det här och det här, innehåller detta...
 - [Arbetsflöde](#arbetsflöde)
 - [Sprintplan](#sprintplan)
 - [Bidra](#bidra)
+- [Lärdomar](#lärdomar)
 
 
 ---
 
-## Om projektet
+## 📖 Om projektet
 Detta är en gruppövning där målet var att bygga en **minimalistisk e-handelsplattform**.
 Syftet är att träna på:
 - detta
@@ -124,4 +125,23 @@ Vill du bidra?
 3. Commit & push
 4. Skicka en Pull Request
 
-   
+---
+
+## Lärdomar
+
+* Skillnaden mellan Server & Client Components i Next.js
+* Agila metoder
+* API
+* Responsivitet
+
+---
+
+## Licens
+
+Detta projekt är utvecklat i utbildningssyfte och är inte avsett för produktion.
+
+---
+
+## Kontakt
+
+Ev. kontaktuppgifter
