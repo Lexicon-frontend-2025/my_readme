@@ -7,8 +7,8 @@ Projektet gör det här och det här, innehåller detta...
 ---
 
 ## 🗂️ Innehållsförteckning
-- 📖 [Om projektet](#om-projektet)
-- ✨[Funktioner](#funktioner)
+- 📖 [Om projektet](#-om-projektet)
+- ✨[Funktioner](#-funktioner)
 - [Teknologier](#teknologier)
 - [Installation](#installation)
 - [Användning](#användning)
@@ -30,7 +30,7 @@ Syftet är att träna på:
 
 ---
 
-## Funktioner
+## ✨ Funktioner
 - Startsida med produköversikt
 - Hero-sektion med CTA
 - olika sidor
