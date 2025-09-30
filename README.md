@@ -13,6 +13,9 @@ Projektet gör det här och det här, innehåller detta...
 - [Installation](#installation)
 - [Användning](#användning)
 - [Projektstruktur](#projektstruktur)
+- [Arbetsflöde](#arbetsflöde)
+- [Sprintplan](#sprintplan)
+- [Bidra](#bidra)
 
 
 ---
@@ -77,3 +80,48 @@ npm run dev
 |
 |
 ```
+
+---
+
+## Arbetsflöde
+
+* Grupparbete i agila sprintar (SCRUM)
+* Feature branches
+* PR + kodgranskning
+
+---
+
+## Sprintplan
+
+### Sprint 1 - Grundläggande struktur
+
+* Satte upp Next.js-projektet
+* Skapade menyer & statiska sidor
+
+### Sprint 2 - Grundläggande struktur
+
+* Satte upp Next.js-projektet
+* Skapade menyer & statiska sidor
+
+### Sprint 3 - Grundläggande struktur
+
+* Satte upp Next.js-projektet
+* Skapade menyer & statiska sidor
+
+### Sprint 4 - Finputs
+
+* Satte upp Next.js-projektet
+* Skapade menyer & statiska sidor
+
+---
+
+## Bidra
+
+Vill du bidra?
+
+1. Forka projektet
+2. Skapa en feature-branch (`git checkout ......`)
+3. Commit & push
+4. Skicka en Pull Request
+
+   
