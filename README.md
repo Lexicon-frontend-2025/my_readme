@@ -42,6 +42,7 @@ Syftet är att träna på:
 ## Teknologier
 - [Next.js 15 (App Router)](https://nextjs.org/)
 - [WAVE](https://wave.webaim.org/)
+- [API]
 
 ---
 
