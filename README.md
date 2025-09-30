@@ -7,9 +7,9 @@ Projektet gör det här och det här, innehåller detta...
 ---
 
 ## Innehållsförteckning
-- [Om projektet](#-om-projektet)
-- [Funktioner](#-funktioner)
-- [Teknologier](#-teknologier)
+- [Om projektet](#om-projektet)
+- [Funktioner](#funktioner)
+- [Teknologier](#teknologier)
 
 
 ---
