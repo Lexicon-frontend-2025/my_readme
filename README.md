@@ -6,17 +6,19 @@ Projektet gör det här och det här, innehåller detta...
 
 ---
 
-## 🗂️ Innehållsförteckning
+## 📑 Innehåll
 - 📖 [Om projektet](#-om-projektet)
 - ✨ [Funktioner](#-funktioner)
-- [Teknologier](#teknologier)
-- [Installation](#installation)
-- [Användning](#användning)
-- [Projektstruktur](#projektstruktur)
-- [Arbetsflöde](#arbetsflöde)
-- [Sprintplan](#sprintplan)
-- [Bidra](#bidra)
-- [Lärdomar](#lärdomar)
+- 🛠 [Teknologier](#-teknologier)
+- ⚙️ [Installation](#-installation)
+- 🚀 [Användning](#-användning)
+- 📂 [Projektstruktur](#-projektstruktur)
+- 📈 [Arbetsflöde](#-arbetsflöde)
+- 🗓 [Sprintplan](#-sprintplan)
+- 🤝 [Bidra](#-bidra)
+- 📚 [Lärdomar](#-lärdomar)
+- 📜 [Licens](#-licens)
+- ✍️ [Kontakt](#-kontakt)
 
 
 ---
@@ -31,22 +33,22 @@ Syftet är att träna på:
 ---
 
 ## ✨ Funktioner
-- Startsida med produköversikt
-- Hero-sektion med CTA
-- olika sidor
-- Sök
-- Lägg till
+- ✅ Startsida med produköversikt
+- ✅ Hero-sektion med CTA
+- ✅ olika sidor
+- ✅ Sök
+- ✅ Lägg till
 
 ---
 
-## Teknologier
+## 🛠 Teknologier
 - [Next.js 15 (App Router)](https://nextjs.org/)
 - [WAVE](https://wave.webaim.org/)
 - [API]
 
 ---
 
-## Installation
+## ⚙️ Installation
 ```bash
 # Klona repo
 git clone https://github.com/username/repo.git
@@ -63,7 +65,7 @@ npm run dev
 
 ---
 
-## Användning
+## 🚀 Användning
 * Startsida -> visar produkter + hero
 * Om oss -> statisk sida med text och bild
 * osv
@@ -72,7 +74,7 @@ npm run dev
 
 ---
 
-## Projektstruktur
+## 📂 Projektstruktur
 
 ```
 |-- app/
@@ -85,15 +87,15 @@ npm run dev
 
 ---
 
-## Arbetsflöde
+## 📈 Arbetsflöde
 
-* Grupparbete i agila sprintar (SCRUM)
-* Feature branches
-* PR + kodgranskning
+* 👥 Grupparbete i agila sprintar (SCRUM)
+* 🌱 Feature branches
+* 🔍 PR + kodgranskning
 
 ---
 
-## Sprintplan
+## 🗓 Sprintplan
 
 ### Sprint 1 - Grundläggande struktur
 
@@ -117,7 +119,7 @@ npm run dev
 
 ---
 
-## Bidra
+## 🤝 Bidra
 
 Vill du bidra?
 
@@ -128,7 +130,7 @@ Vill du bidra?
 
 ---
 
-## Lärdomar
+## 📚 Lärdomar
 
 * Skillnaden mellan Server & Client Components i Next.js
 * Agila metoder
@@ -137,12 +139,12 @@ Vill du bidra?
 
 ---
 
-## Licens
+## 📜 Licens
 
 Detta projekt är utvecklat i utbildningssyfte och är inte avsett för produktion.
 
 ---
 
-## Kontakt
+## ✍️ Kontakt
 
 Ev. kontaktuppgifter
