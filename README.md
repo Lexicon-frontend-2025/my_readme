@@ -10,6 +10,7 @@ Projektet gör det här och det här, innehåller detta...
 - [Om projektet](#om-projektet)
 - [Funktioner](#funktioner)
 - [Teknologier](#teknologier)
+- [Installation](#installation)
 
 
 ---
@@ -37,3 +38,21 @@ Syftet är att träna på:
 - [WAVE](https://wave.webaim.org/)
 
 ---
+
+## Installation
+```bash
+# Klona repo
+git clone https://github.com/username/repo.git
+
+# Gå in i projektmappen
+cd repo-namn
+
+# Installera beroenden
+npm install
+
+# Starta utvecklingsserver
+npm run dev
+```
+
+
+
